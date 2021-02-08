@@ -1,0 +1,4 @@
+#Mon Feb 08 16:52:13 IST 2021
+base.0=C\:\\Users\\saish\\Desktop\\HealthVectors\\flutter_login\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
